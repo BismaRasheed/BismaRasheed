@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building small projects to strengthen my programming and development skills.<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly web development, Java/Python projects, or simple open-source contributions.<br><br>🤝 I’m looking for help with<br>Improving my coding logic, data structures, and understanding real-world project workflows.<br><br>🌱 I’m currently learning<br>Java, Python, Web Development (HTML, CSS, JS), MySQL, and Data Structures.<br><br>💬 Ask me about<br>Basic programming, college projects, debugging beginners’ code, or how to get started in development.<br><br>⚡ Fun fact<br>I break my code 100 times, but I also fix it 101 times .
+🔭Building small projects to strengthen my programming and development skills.<br><br>👯  Beginner-friendly web development, Java/Python projects, or simple open-source contributions.<br><br>🤝Improving my coding logic, data structures, and understanding real-world project workflows.<br><br>🌱Java, Python, Web Development (HTML, CSS, JS), MySQL, and Data Structures.<br><br>💬Basic programming, college projects, debugging beginners’ code, or how to get started in development.<br><br>⚡I break my code 100 times, but I also fix it 101 times .
 
 
 ## 🌐 Socials:
